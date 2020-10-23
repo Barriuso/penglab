@@ -15,7 +15,7 @@ It installs by default :
 
 And now, it can also :
 * Launch an integrated shell
-* Download the wordlists Rockyou and HashesOrg2019 quickly !
+* Download the wordlists Rockyou and HashesOrg2019, Kaonashi quickly !
 
 You only need a Google Account to use Google Colab, and to use ngrok for SSH (optional).
 
